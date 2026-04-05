@@ -11,7 +11,7 @@ Using monthly budget and actual financials for the past year, segmented by depar
 ![Dashboard Screenshot](Screenshots/1_Executive_Overview_DB.jpg)
 ![Dashboard Screenshot](Screenshots/2_Department_Performance_Analysis_DB.jpg)
 ![Dashboard Screenshot](Screenshots/3_Payment_and_Approval_Insights_DB.jpg)
-
+![Dashboard Screenshot](Screenshots/4_Budget_Model.jpg)
 ## Key Insights
 - **Insight 1: Over the period from 2019-2024, the total variance of actual from budget is $80K.
 - **Insight 2: Over the same period, 5 departments overspent: Sales, Operations, IT, Finance, and HR.
